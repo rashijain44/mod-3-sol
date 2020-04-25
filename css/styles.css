@@ -1,0 +1,36 @@
+body{
+	background-color: #F08080;
+}
+#id-nav{
+	background-color: yellow;
+	border: 0;
+	border-radius: 0;
+}
+.navbar-brand a {
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 1.72em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom:0;
+  margin-left: 10px;
+  line-height: 0.75;
+  text-decoration: none;
+}
+h1{
+	text-transform: capitalize;
+}
+.content{
+	border: 1px solid black;
+	margin:10px;
+	background-color: grey;
+}
+#nav-list a{
+	background-color:#F0E68C;
+}
+}
+}
+
+
